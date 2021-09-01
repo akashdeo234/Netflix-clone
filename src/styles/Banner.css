@@ -1,0 +1,21 @@
+.banner{
+    color: white;
+    object-fit: contain;
+    height: 60vh;
+    position: relative;
+}
+.banner-content{
+    margin-left: 25px;
+    position: absolute;
+    bottom: 30px;
+}
+.btn{
+    background-color: rgb(56, 56, 56);
+    color: white;
+    border: none;
+    margin: 10px 5px;
+    padding: 3px 20px;
+}
+.title{
+    font-size: 50px;
+}
